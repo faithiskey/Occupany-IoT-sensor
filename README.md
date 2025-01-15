@@ -8,7 +8,7 @@ Size: The dataset spans 20,560 entries.
 
 -**Tools**
 Language: Python
-Platform: Google Colab
+Platform: Jupiter notebook
 
 -**Exploratory Data Analysis**
 Data Types: Verify the types (numerical or categorical) for all columns.
@@ -18,3 +18,6 @@ Dataset Size: Confirm the number of rows (20,560) and columns (7).
 Temperature, Humidity, and HumidityRatio: Impact on occupancy.
 Light and CO2: Key indicators of room usage.
 date: Useful for time-based analysis.
+
+-**Predictive analysis**
+the accurate predictive analysis was 99%
